@@ -21,3 +21,5 @@ Dieser Datensatz enthält verschiedene Informationen über die Passagiere der Ti
 - **Fare**: Ticketpreis
 
 Ziel ist es, mithilfe dieser Daten zu analysieren, welche Faktoren das Überleben beeinflussten.
+
+Datenquelle: https://www.kaggle.com/competitions/titanic/data?select=train.csv
